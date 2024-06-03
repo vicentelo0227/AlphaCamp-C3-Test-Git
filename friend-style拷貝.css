@@ -1,0 +1,55 @@
+.friendNameSurname {
+  border-radius: 15px;
+}
+
+.card,
+.selfie {
+  border-radius: 15px;
+}
+
+
+.selfie:hover {
+  box-shadow: 2px 2px 2px #6c6c6c;
+}
+
+/* .selfie {
+  border: 1px solid black;
+} */
+
+.modalSelfie {
+  border: 1px solid #5B5B5B;
+  border-radius: 20px;
+}
+
+.friendNameSurname:hover {
+  user-select: none;
+  /* color: rgb(102, 187, 169); */
+}
+
+.pageNum.active {
+  background-color: rgb(48, 210, 242);
+}
+
+.fa-star {
+  display: inline-block;
+  font-size: 20px;
+  margin-right: 1rem;
+}
+
+.offcanvas-body {
+  user-select: none;
+}
+
+hr {
+  margin-top: 5px;
+}
+
+.search-bar-container {
+  top: 48px;
+}
+
+.favorite-icon {
+  position: absolute;
+  top: 20px;
+  left: 10px;
+}
