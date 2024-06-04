@@ -1,4 +1,4 @@
-# Movie List
+# Friend List
 A simple web application for friend list
 
 ## Features
